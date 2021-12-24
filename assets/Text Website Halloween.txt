@@ -87,7 +87,6 @@ Accessory
 
 ========== DISCOUNT ==========
 .section__title
-50% Discount <br> On New Products
 
 
 ========== NEW ARRIVALS ==========
@@ -145,7 +144,7 @@ Discounts
 Shipping mode
 
 Blog
-About us
+    About us
 Our mision
 
 .footer__copy
