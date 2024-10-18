@@ -1,6 +1,4 @@
 # Respositorio - Responsive Halloween Website 🎃
-##Video em que se foi baseado  o projeto [clique aqui](https://youtu.be/lgo1CEPZoxg)
-### Responsive Halloween Website 🎃
 
 - Responsive Halloween Website Using HTML, CSS & JavaScript.
 - Contains animations when scrolling.
